@@ -145,7 +145,7 @@ smsm3.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥  `,
 
   ];
   setInterval(function() {
@@ -164,7 +164,7 @@ smsm4.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -183,7 +183,7 @@ smsm5.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -202,7 +202,7 @@ smsm6.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -221,7 +221,7 @@ smsm7.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -240,7 +240,7 @@ smsm8.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -259,7 +259,7 @@ smsm9.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -278,7 +278,7 @@ smsm10.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -297,7 +297,7 @@ smsm11.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -316,7 +316,7 @@ smsm12.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -335,7 +335,7 @@ smsm13.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -354,7 +354,7 @@ smsm14.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -373,7 +373,7 @@ smsm15.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -392,7 +392,7 @@ smsm16.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -411,7 +411,7 @@ smsm17.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -430,7 +430,7 @@ smsm18.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -449,7 +449,7 @@ smsm19.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -468,7 +468,7 @@ smsm20.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -487,7 +487,7 @@ smsm21.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -506,7 +506,7 @@ smsm22.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -525,7 +525,7 @@ smsm23.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -544,7 +544,7 @@ smsm24.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -563,7 +563,7 @@ smsm25.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -582,7 +582,7 @@ smsm26.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -601,7 +601,7 @@ smsm27.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -620,7 +620,7 @@ smsm28.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -639,7 +639,7 @@ smsm29.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -658,7 +658,7 @@ smsm30.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -677,7 +677,7 @@ smsm31.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -696,7 +696,7 @@ smsm32.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -715,7 +715,7 @@ smsm33.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -734,7 +734,7 @@ smsm34.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -753,7 +753,7 @@ smsm35.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -772,7 +772,7 @@ smsm36.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -791,7 +791,7 @@ smsm37.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -810,7 +810,7 @@ smsm38.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -829,7 +829,7 @@ smsm39.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -848,7 +848,7 @@ smsm40.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -867,7 +867,7 @@ smsm41.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -886,7 +886,7 @@ smsm42.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -905,7 +905,7 @@ smsm43.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -924,7 +924,7 @@ smsm44.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -943,7 +943,7 @@ smsm45.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -962,7 +962,7 @@ smsm46.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -981,7 +981,7 @@ smsm47.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -1000,7 +1000,7 @@ smsm48.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -1019,7 +1019,7 @@ smsm49.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -1038,7 +1038,7 @@ smsm50.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -1057,7 +1057,7 @@ smsm51.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -1076,7 +1076,7 @@ smsm52.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -1095,7 +1095,7 @@ smsm53.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -1114,7 +1114,7 @@ smsm54.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -1133,7 +1133,7 @@ smsm55.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -1152,7 +1152,7 @@ smsm56.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -1171,7 +1171,7 @@ smsm57.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -1190,7 +1190,7 @@ smsm58.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -1209,7 +1209,7 @@ smsm59.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -1228,7 +1228,7 @@ smsm60.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -1247,7 +1247,7 @@ smsm61.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
@@ -1266,7 +1266,7 @@ smsm62.on("ready", () => {
   );
   let statuses = [
   
-  `By : SMSM`,
+  `By : !                      EBO | BH#٥٧١٥ `,
 
   ];
   setInterval(function() {
